@@ -657,9 +657,6 @@
                 <div class="col-md-6">
                     <p>&copy; <a href="#">Salon Management</a>, All Right Reserved.</p>
                 </div>
-                <div class="col-md-6">
-                    <p>Designed By <a href="">theworldwidemanager</a></p>
-                </div>
             </div>
         </div>
     </div>
