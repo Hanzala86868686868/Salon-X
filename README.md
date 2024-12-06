@@ -1,2 +1,2 @@
 # Salon-X
-Salon X is your go-to destination for premium beauty and grooming services. We offer hairstyling, skincare, and nail treatments tailored to your unique style. With expert professionals, top-notch products, and a relaxing ambiance, Salon X ensures a rejuvenating experience that leaves you looking and feeling your best.
+Salon X offers premium salon services with easy online booking. Choose from haircuts, styling, facials, and more. Secure payments, professional care, and personalized experiences ensure you look and feel your best. Book today to enjoy exceptional beauty services tailored just for you!
